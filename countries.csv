@@ -1,0 +1,23 @@
+country,countryName,Lat,Long
+GB, 'Great Britain',55.3781,-3.436
+US, 'United States',37.0902,-95.7129
+CA, 'Canada',56.1304,-106.3468
+AU, 'Australia',-25.2744,133.7751
+NO, 'Norway',60.472,8.4689
+IT, 'Italy',41.8719,12.5674
+DE, 'Germany',51.1657,10.4515
+IE, 'Ireland',53.1424,-7.6921
+MX, 'Mexico',23.6345,-102.5528
+ES, 'Spain',40.420026,-3.708504
+SE, 'Sweden',59.328763,18.066662
+FR, 'France',46.2276,2.2137
+NL, 'Netherlands',52.1326,5.2913
+NZ, 'New Zealand',-40.9006,174.886
+CH, 'Switzerland',46.8182,8.2275
+AT, 'Austria',47.5162,14.5501
+DK, 'Denmark',56.2639,9.5018
+BE, 'Belgium',50.5039,4.4699
+HK, 'Hong Kong',22.3964,114.1095
+LU, 'Luxembourg',49.8153,6.1296
+SG, 'Singapore',1.3521,103.8198
+JP, 'Japan',36.2048,138.2529

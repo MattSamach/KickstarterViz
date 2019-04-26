@@ -1,0 +1,1 @@
+R Shiny application for visualizing various aspects of kickstarter projects around the world.
